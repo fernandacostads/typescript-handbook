@@ -34,20 +34,6 @@ Cons:
 - A bit of hassle in integration (tho latest tools offer TS integration out of the box).
 - Can increase development time if not being used with proper type structuring approach.
 
-## When should we use it?
-
-WBAS
-
-I will write my opinion here once I get myself more familiar with the use cases of TS.
-
-## Why am I learning it?
-
-I will be honest here, someone asked me how much do you know about TypeScript, and I said enough to work with it (and that was my mistake :) ).
-
-Then he asked me few things related to TS and MAN!! he actually made me realize that I am no where near a person who can utilize this amazing tech and develop super amazing stuff.
-
-The more I explore it, the more I find it fascinating.
-
 ## Sources:
 
 All the sources (now and in future) will be added here.
